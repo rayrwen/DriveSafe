@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">DriveSafe</string>
+    <string name="profile_button">User profile</string>
+    <string name="score_button">Current Score</string>
+    <string name="drive_button">New Drive</string>
+    <string name="score_field">NIL</string>
+    <string name="copyright">©2016 Annie, Jenne and Ray</string>
+
+    <string name="title_activity_user_profile">User Profile</string>
+    <string name="user_name_indicator">Username</string>
+    <string name="user_name">Demo</string>
+    <string name="user_trips_made_indicator">Trips Made</string>
+    <string name="user_trips_made">NIL</string>
+    <string name="user_acceleration_score_indicator">Acceleration Score</string>
+    <string name="user_acceleration_score">NIL</string>
+    <string name="user_brake_score_indicator">Brake Score</string>
+    <string name="user_brake_score">NIL</string>
+    <string name="user_speed_score_indicator">Speed Score</string>
+    <string name="user_speed_score">NIL</string>
+    <string name="user_steering_score_indicator">Steering Score</string>
+    <string name="user_steering_score">NIL</string>
+
+    <string name="overall_risk">Risk level</string>
+
+    <string name="driver_section_head"><u>DRIVER</u></string>
+    <string name="overspeed_indicator">Overspeed</string>
+    <string name="overspeed">LEVEL</string>
+    <string name="hard_braking_indicator">Hard Braking</string>
+    <string name="hard_braking">LEVEL</string>
+    <string name="aggressive_steering_indicator">Aggressive Steering</string>
+    <string name="aggressive_steering">LEVEL</string>
+    <string name="sudden_acceleration_indicator">Sudden Acceleration</string>
+    <string name="sudden_acceleration">LEVEL</string>
+
+    <string name="road_condition_section_head"><u>ROAD CONDITIONS</u></string>
+    <string name="potholes_indicator">Potholes</string>
+    <string name="potholes">LEVEL</string>
+    <string name="slipperiness_indicator">Slipperiness</string>
+    <string name="slipperiness">LEVEL</string>
+
+    <string name="surrounding_drivers_section_head"><u>SURROUNDING DRIVERS</u></string>
+    <string name="aggressive_percent_indicator">Aggressive driver %</string>
+    <string name="aggressive_percent">LEVEL</string>
+
+    <string name="stop_driving_button">Stop Driving</string>
+    <string name="refresh_button">Refresh</string>
+    <string name="auto_refresh_button">Start Driving</string>
+    <string name="stop_auto_refresh_button">Stop Driving</string>
+    <string name="report_pothole_button">Report Pothole</string>
+    <string name="report_slipper_button">Report Ice</string>
+    <string name="home_button">Go to Home Screen</string>
+    <string name="connection_status_indicator">Connection Status:</string>
+    <string name="connection_status">Your status: <u>Not started</u></string>
+    <string name="no_connection">No connection</string>
+    <string name="stop_refresh">Stop refreshing</string>
+
+
+</resources>
